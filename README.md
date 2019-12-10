@@ -3,7 +3,7 @@
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
 ## Versions
-- Unity 2017.4.15
+- Unity 2018.4.0
 - GVR Unity SDK v1.170.0
 
 ### GVR SDK for Unity
@@ -44,8 +44,3 @@ Non-moving models in the scene have been set to static, and the lighting in the 
 - It took almost a week for me to complete the "Tic-Tac-Toe" project, as I worked very closely on it to ensure that it meets all the project specifications.
 - I love working in Unity 3D, as I have keen interest to learn using it inside out. Therefore, I liked almost everything about the project.
 - I really enjoy the fact that I was able to optimize the "Tic-Tac-Toe" project, along with learning some useful tactics to optimize the C# code for enhancing the FPS on mobile devices while playing the game.
-- I am proud of my Final Project Output.
-
-
-Kind Regards,
-Sujatha.
